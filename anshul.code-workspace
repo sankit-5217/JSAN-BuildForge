@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "JSAN BuildForge",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "window.title": "JSAN BuildForge — Anshul — ${activeEditorShort}${separator}${appName}"
+  }
+}
+
